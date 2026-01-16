@@ -24,7 +24,7 @@ Our work investigates the internal mechanisms through which spurious RLVR traini
 ```bash
 # Our codebase is based on TTRL (https://github.com/PRIME-RL/TTRL) and
 # Spurious_Rewards(https://github.com/ruixin31/Spurious_Rewards)
-# You can start by cloning the repo::
+# You can start by cloning the repo:
 git clone git@github.com:ruixin31/Spurious_Rewards
 cd code
 
@@ -40,7 +40,7 @@ pip install flash_attn==2.7.0.post2
 
 ##  Training & Data
 
-For RLVR training and data preparation, please refer to our base repository:
+For RLVR training and data preparation, please refer to the base repository:
 
 **[Spurious Rewards](https://github.com/ruixin31/Spurious_Rewards)**
 
