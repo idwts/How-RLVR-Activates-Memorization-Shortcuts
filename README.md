@@ -1,6 +1,6 @@
 # 🔬 Spurious Rewards Paradox:  Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs
 
-**[Paper](https://arxiv.org/abs/XXXX)** 
+**[Paper](https://arxiv.org/abs/2601.11061)** 
 
 This repository contains the implementation code for our paper:   **"Spurious Rewards Paradox:  Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs"**.  
 
@@ -75,7 +75,15 @@ See `scripts/` for detailed usage examples.
 If you find our work helpful, please cite: 
 
 ```bibtex
-placeholder
+@misc{yan2026spuriousrewardsparadoxmechanistically,
+      title={Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs}, 
+      author={Lecheng Yan and Ruizhe Li and Guanhua Chen and Qing Li and Jiahui Geng and Wenxi Li and Vincent Wang and Chris Lee},
+      year={2026},
+      eprint={2601.11061},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2601.11061}, 
+}
 ```
 
 
